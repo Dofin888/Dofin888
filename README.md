@@ -1,4 +1,4 @@
-# Hi there, I'm Ashir! 👋 (Dofin888)
+# Hi there 👋
 
 I am a Python Developer and Digital Marketing Specialist focused on building automated software tools, custom scrapers, and data analytics solutions for e-commerce brands and B2B businesses.
 
